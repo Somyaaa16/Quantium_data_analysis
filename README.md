@@ -1,5 +1,7 @@
 # Quantium_data_analysis
 
+#RESULTS AND RECOMMENDATIONS:
+
 1) Older singles/couple tend to purchase more chips and new families
 spend the least 2) Most purchased brand by the customers is ‘Kettle’ 3) Maximum no. of sales is of brand
 ‘Kettle’ of higher than 40,000 and ‘Smiths’ come on second number having sales of slightly less than 30,000 4)
